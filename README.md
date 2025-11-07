@@ -7,4 +7,4 @@
 </div>
 
 
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopuleo)](https://github.com/paulopuleo/github-readme-stats)
+[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopuleo&theme=radical)](https://github.com/paulopuleo/github-readme-stats)
