@@ -5,3 +5,6 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,autocad,blender,c,cs,cpp,cmake,discord,flutter,git,github,gmail,html,instagram,npm,postgres,powershell,py,unity,unreal,vscode&perline=7)](https://skillicons.dev)
 
 </div>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulopuleo)](https://github.com/anuraghazra/github-readme-stats)
