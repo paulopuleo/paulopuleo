@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=5000&color=C8C8C8&repeat=false&width=435&lines=ING.+PAULO+PULEO" alt="Typing SVG" /></a>
-<img align="right" width="450" src="https://github.com/user-attachments/assets/7f7f5c20-84ba-4c51-b67d-d850c04a34b2" />
+<img align="right" width="400" src="https://github.com/user-attachments/assets/7f7f5c20-84ba-4c51-b67d-d850c04a34b2" />
 <ul>
   <li> 💻 I'm currently working in multiple projects</a> </li>
   <li> 🎓 Software Engineering Graduate from <a href="https://www.ucab.edu.ve/guayana">UCAB Guayana</a> </li>
