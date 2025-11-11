@@ -10,13 +10,13 @@
   </ul>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=GAME+DEVELOPMENT)](https://git.io/typing-svg)<br>
-  [![My Skills](https://skillicons.dev/icons?i=blender,cs,cpp,unity,unreal,&perline=4)]()<br>
+  [![My Skills](https://skillicons.dev/icons?i=blender,cs,cpp,unity,unreal,&perline=10)]()<br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=WEB+DEVELOPMENT)](https://git.io/typing-svg) <br>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter&perline=4)]()<br>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter&perline=10)]()<br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=MOBILE+AND+DESKTOP+DEVELOPMENT)](https://git.io/typing-svg) <br>
-  [![My Skills](https://skillicons.dev/icons?i=androidstudio,swift,cpp,cmake,flutter,npm,postgres,py,vscode&perline=4)]()<br>
+  [![My Skills](https://skillicons.dev/icons?i=androidstudio,swift,cpp,cmake,flutter,npm,postgres,py,vscode&perline=10)]()<br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=OTHERS)](https://git.io/typing-svg)<br>
-  [![My Skills](https://skillicons.dev/icons?i=autocad,c,discord,git,github,powershell&perline=4)]()<br>
+  [![My Skills](https://skillicons.dev/icons?i=autocad,c,discord,git,github,powershell&perline=10)]()<br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=HOW+TO+REACH+ME)](https://git.io/typing-svg)<br>
   [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=instagram&perline=7)](https://www.instagram.com/paulopuleo)
 </td>
