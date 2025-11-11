@@ -18,7 +18,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=OTHERS)](https://git.io/typing-svg)<br>
   [![My Skills](https://skillicons.dev/icons?i=autocad,c,discord,git,github,powershell&perline=10)]()<br>
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=5000&color=C8C8C8&vCenter=true&repeat=false&width=435&lines=HOW+TO+REACH+ME)](https://git.io/typing-svg)<br>
-  [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=instagram&perline=7)](https://www.instagram.com/paulopuleo)
+  [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:paulopuleo95@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Paulo%2C%0A%0AMe%20gustar%C3%ADa%20hablar%20sobre%20un%20proyecto.)[![My Skills](https://skillicons.dev/icons?i=instagram&perline=7)](https://www.instagram.com/paulopuleo)
 </td>
 
 <td width="35%" valign="middle" style="text-align:center; border:none; vertical-align:middle;">
